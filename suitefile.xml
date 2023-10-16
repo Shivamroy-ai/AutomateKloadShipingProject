@@ -1,0 +1,15 @@
+<suite name="kloadshipproject">
+
+    <test name="loginTestcase">
+        <classes>
+            <class name="org.example.testes.Testes"/>
+        </classes>
+    </test>
+
+    <test name="deleatpackageTest">
+        <classes>
+            <class name="org.example.testes.DeleatPackageTest"/>
+        </classes>
+    </test>
+
+</suite>
